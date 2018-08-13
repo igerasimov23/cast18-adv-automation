@@ -1,0 +1,11 @@
+# Files that might appear in the root of a volume
+
+/**/.idea/workspace.xml
+.idea/workspace.xml
+**/.idea/workspace.xml
+.idea
+.settings
+target/
+bin/
+.classpath
+.project
